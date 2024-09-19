@@ -1,10 +1,10 @@
-site_name: Name of your website
-site_description: Tell people what this website is about
-site_author: Who you are
-site_url: 'https://foss.cyverse.org'
+site_name: Caleigh's webiste
+site_description: This website will be about me and my work
+site_author: I am Caleigh Curley
+site_url: 'https://github.com/caleighcurley/FOSSF2024tutorial'
 
 # Repository
-repo_name: The repository name
+repo_name: FOSSF2024tutorial
 repo_url: 'https://github.com/CyVerse-learning-materials/foss'
 edit_uri: edit/main/docs/
 # Copyright
